@@ -6,7 +6,7 @@ import '@shayaqhmetov/ui-kit/dist/index.css'
 const App = () => {
   return (
     <div>
-      <h5 className="section-name">Buttons</h5>
+      <h5 className="section-name">Base</h5>
       <div className="container">
         <Button label="Submit" variant="submit"/>
         <Button label="Basic" variant="basic"/>
