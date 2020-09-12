@@ -1,0 +1,26 @@
+.block {
+  background-color: white;
+  border-radius: 6px;
+}
+
+.information {
+  padding: 100px 65px;
+
+  h1 {
+    font-weight: 300;
+    text-align: left;
+    color: #43484d;
+  }
+  
+  p {
+    color: #86939e;
+    margin: 15px auto;
+  }
+  
+}
+
+.rightImage {
+  float: right;
+  margin-right: -15px;
+}
+

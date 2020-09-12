@@ -15,12 +15,11 @@ npm install --save @shayaqhmetov/ui-kit
 ```tsx
 import React, { Component } from 'react'
 
-import MyComponent from '@shayaqhmetov/ui-kit'
-import '@shayaqhmetov/ui-kit/dist/index.css'
+import { Button } from '@shayaqhmetov/ui-kit'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <Button />
   }
 }
 ```
