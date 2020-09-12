@@ -25,3 +25,12 @@
   margin-right: -15px;
 }
 
+@media only screen and (max-width: 600px) {
+  .rightImage {
+    display: none;
+  }
+
+  .information {
+    padding: 20px 6px;
+  }
+}
